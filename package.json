@@ -4,7 +4,7 @@
   "description": "It is just a test API to be able to use in Postman or whatever you want",
   "main": "server.js",
   "scripts": {
-    "start": "node --experimental-modules --es-module-specifier-resolution=node server"
+    "start": "node server.js"
   },
   "author": "Edwin Castillo",
   "license": "MIT",
